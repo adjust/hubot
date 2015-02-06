@@ -7,6 +7,7 @@
   "dependencies": {
     "githubot": "^1.0.0-beta2",
     "hubot": "^2.11.0",
+    "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
@@ -20,7 +21,11 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-soon": "^1.0.0",
+    "hubot-thank-you": "0.0.3",
+    "hubot-youtube": "^0.1.2",
+    "sandbox": "^0.8.6",
+    "wolfram": "^0.3.0"
   },
   "engines": {
     "node": "0.10.x"

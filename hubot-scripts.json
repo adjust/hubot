@@ -1,5 +1,10 @@
 [
   "github-issue-link.coffee",
   "remind.coffee",
-  "xkcd.coffee"
+  "xkcd.coffee",
+  "decide.coffee",
+  "abstract.coffee",
+  "ruby.coffee",
+  "javascript-sandbox.coffee",
+  "wolfram.coffee"
 ]
