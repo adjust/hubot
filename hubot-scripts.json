@@ -1,3 +1,5 @@
 [
-  "github-issue-link.coffee"
+  "github-issue-link.coffee",
+  "remind.coffee",
+  "xkcd.coffee"
 ]
