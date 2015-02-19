@@ -7,5 +7,6 @@
   "ruby.coffee",
   "javascript-sandbox.coffee",
   "wolfram.coffee",
-  "botsnack.coffee"
+  "botsnack.coffee",
+  "janky.coffee"
 ]
