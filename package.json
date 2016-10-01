@@ -24,6 +24,7 @@
     "hubot-slack": "^3.2.1",
     "hubot-soon": "^1.0.0",
     "hubot-thank-you": "0.0.3",
+    "hubot-thesaurus": "git://github.com/sighmoan/hubot-thesaurus",
     "hubot-youtube": "^0.1.2",
     "sandbox": "^0.8.6",
     "wolfram": "^0.3.0"
