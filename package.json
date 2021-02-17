@@ -1,34 +1,32 @@
 {
   "name": "hubot",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
-  "author": "Ali Ismayilov <ali@ismailov.info>",
-  "description": "smart ass bot",
+  "author": "adjust ops team <ops@adjust.com",
+  "description": "adjust hubot",
   "dependencies": {
-    "githubot": "^1.0.0-beta2",
-    "hubot": "^2.11.0",
+    "githubot": "^1.0.1",
+    "hubot": "^3.3.2",
     "hubot-ambush": "0.0.3",
     "hubot-currencies": "git://github.com/sighmoan/hubot-currencies",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.1.2",
-    "hubot-google-translate": "^0.1.0",
-    "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
-    "hubot-maps": "0.0.1",
-    "hubot-plusplus": "^1.1.2",
-    "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.2",
-    "hubot-rules": "^0.1.0",
-    "hubot-scripts": "^2.5.16",
-    "hubot-shipit": "^0.1.1",
-    "hubot-slack": "^3.2.1",
+    "hubot-diagnostics": "^1.0.0",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^1.0.1",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "^1.0.0",
+    "hubot-rules": "^1.0.0",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.9.0",
     "hubot-soon": "^1.0.0",
     "hubot-thank-you": "0.0.3",
-    "hubot-youtube": "^0.1.2",
+    "hubot-youtube": "^1.2.0",
     "sandbox": "^0.8.6",
-    "wolfram": "^0.3.0"
+    "wolfram": "^0.3.4"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.12.x"
   }
 }
